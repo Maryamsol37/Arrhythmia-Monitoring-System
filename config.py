@@ -16,4 +16,4 @@ ALERT_COOLDOWN = 10  # Seconds between alerts
 MEDICATION_RELOAD_TIME = 30  # Seconds to reload medication
 
 # Pushbullet Configuration
-PUSHBULLET_API_KEY = 'o.ZCEHv4L7dViboMnztLfCgfuuYy1Uzncu'  # Your Pushbullet API key
+PUSHBULLET_API_KEY = 'ujgvfktduktdutfjvj'  # Your Pushbullet API key
